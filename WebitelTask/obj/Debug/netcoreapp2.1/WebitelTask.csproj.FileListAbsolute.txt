@@ -1,0 +1,14 @@
+F:\ASP.Net CORE\WebitelTask\WebitelTask\bin\Debug\netcoreapp2.1\WebitelTask.deps.json
+F:\ASP.Net CORE\WebitelTask\WebitelTask\bin\Debug\netcoreapp2.1\WebitelTask.runtimeconfig.json
+F:\ASP.Net CORE\WebitelTask\WebitelTask\bin\Debug\netcoreapp2.1\WebitelTask.runtimeconfig.dev.json
+F:\ASP.Net CORE\WebitelTask\WebitelTask\bin\Debug\netcoreapp2.1\WebitelTask.dll
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.csproj.CoreCompileInputs.cache
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.RazorAssemblyInfo.cache
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.RazorAssemblyInfo.cs
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.AssemblyInfoInputs.cache
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.AssemblyInfo.cs
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.RazorTargetAssemblyInfo.cache
+F:\ASP.Net CORE\WebitelTask\WebitelTask\bin\Debug\netcoreapp2.1\WebitelTask.pdb
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.dll
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.pdb
+F:\ASP.Net CORE\WebitelTask\WebitelTask\obj\Debug\netcoreapp2.1\WebitelTask.csprojAssemblyReference.cache
